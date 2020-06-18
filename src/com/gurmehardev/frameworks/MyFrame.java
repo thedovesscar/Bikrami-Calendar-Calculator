@@ -23,7 +23,7 @@ public class MyFrame extends JFrame {
 		super("Bikrami Calendar Conversion");
 		
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
-		setSize(1405, 1005);
+		setSize(1605, 1005);
 		setResizable(false);
 		
 		setVisible(true);
